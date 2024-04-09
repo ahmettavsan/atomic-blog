@@ -1,3 +1,6 @@
+
+![image](https://github.com/ahmettavsan/atomic-blog/assets/107367185/da24611e-02ab-4ee8-859e-2ad616817b97)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
